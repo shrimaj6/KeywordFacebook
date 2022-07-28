@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-22T10:47:11Z" name="Facebook Application Test Automation Test Suite" finished-at="2022-07-22T10:47:18Z" duration-ms="6827">
+    <groups>
+    </groups>
+    <test started-at="2022-07-22T10:47:11Z" name="Facebook App Test Cases" finished-at="2022-07-22T10:47:18Z" duration-ms="6827">
+      <class name="com.qa.hs.tests.LoginTest">
+        <test-method signature="loginTest()[pri:0, instance:com.qa.hs.tests.LoginTest@bb9e6dc]" started-at="2022-07-22T10:47:11Z" name="loginTest" finished-at="2022-07-22T10:47:15Z" duration-ms="3507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="signUpTest()[pri:0, instance:com.qa.hs.tests.LoginTest@bb9e6dc]" started-at="2022-07-22T10:47:15Z" name="signUpTest" finished-at="2022-07-22T10:47:18Z" duration-ms="3196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpTest -->
+      </class> <!-- com.qa.hs.tests.LoginTest -->
+    </test> <!-- Facebook App Test Cases -->
+  </suite> <!-- Facebook Application Test Automation Test Suite -->
+</testng-results>
